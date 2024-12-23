@@ -65,6 +65,7 @@ We are developing a comprehensive web application to streamline the ordering and
    - add order feedback after receiving order
   
 ## ERD Diagram
+![ERD drawio (1)](https://github.com/user-attachments/assets/caf7e293-0e85-4b66-9337-0b1ee2b0db51)
   
 ## Sequence Diagram
 ![image](https://github.com/user-attachments/assets/7158121a-2236-4ee0-a486-7526b97f8aca)
