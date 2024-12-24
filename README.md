@@ -70,6 +70,27 @@ We are developing a comprehensive web application to streamline the ordering and
 ## Sequence Diagram
 ![image](https://github.com/user-attachments/assets/7158121a-2236-4ee0-a486-7526b97f8aca)
 
+## Mockup Designs
+- Food Vendor Menu
+  ![image](https://github.com/user-attachments/assets/7aee8c8c-bb1b-4b2c-98e6-524206c0cb8e)
+
+- Drink Vendor Menu
+  ![image](https://github.com/user-attachments/assets/80cdf38f-cccb-453b-9cee-7cdd145d973c)
+
+- Cart
+  ![image](https://github.com/user-attachments/assets/91dc2867-0214-41d1-808f-4b733eab417e)
+
+- Payment
+  ![image](https://github.com/user-attachments/assets/2ac3ad43-86d7-49f1-9808-a8dd49eac157)
+
+- Delivery
+  ![image](https://github.com/user-attachments/assets/79ad0268-f91b-4f40-bf94-8e3fb31f0937)
+
+- Feedback
+  ![image](https://github.com/user-attachments/assets/5c504151-b610-4402-ac40-df69ab0241ce)
+
+
+
 ## Changelog
 
 ### v1.0.0 - 15/12/2024
