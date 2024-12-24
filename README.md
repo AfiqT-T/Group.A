@@ -101,8 +101,11 @@ We are developing a comprehensive web application to streamline the ordering and
 
 ### v1.0.0 - 15/12/2024
 #### Added
+## PHP Example
+```php
 - Initial project setup
 - Basic README documentation
+```
 
 
 
