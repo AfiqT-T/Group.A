@@ -1,6 +1,6 @@
 # INFO 3305 Section 02 WEB APPLICATION DEVELOPMENT
 # Group A
-# Mahallah Ali Cafe Order Management System 
+# Ali Arabesque
 <!-- You can use comments to add notes 
      that are only visible in the markdown source -->
      
@@ -99,13 +99,18 @@ We are developing a comprehensive web application to streamline the ordering and
 
 ## Changelog
 
-### v1.0.0 - 15/12/2024
-#### Added
-## PHP Example
-```php
+
+v1.0.0 - 15/12/2024
 - Initial project setup
 - Basic README documentation
-```
+
+v1.1.0 - 22/12/2024
+- Added ERD Diagram
+- Added Sequence Diagram
+
+v1.1.1 - 24/12/2024
+- Added Mockup Design
+
 
 
 
