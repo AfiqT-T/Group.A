@@ -68,7 +68,7 @@ We are developing a comprehensive web application to streamline the ordering and
 ![Untitled Diagram 2 drawio](https://github.com/user-attachments/assets/5e4f5b42-5c68-42a7-b783-72f92697dfba)
   
 ## Sequence Diagram
-![image](https://github.com/user-attachments/assets/7158121a-2236-4ee0-a486-7526b97f8aca)
+![image](https://github.com/user-attachments/assets/042e4aa2-5ddb-4f0e-bc80-01639fb16645)
 
 ## Mockup Designs
 - Menu
