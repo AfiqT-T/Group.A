@@ -73,7 +73,7 @@ We are developing a comprehensive web application to streamline the ordering and
 ## Mockup Designs
 - Menu
 
-  ![image](https://github.com/user-attachments/assets/519abf4f-84a7-4a60-b5e7-fc85400d91c8)
+ ![image](https://github.com/user-attachments/assets/47bee11a-0a3f-4d8f-a4a9-db30ab217c5c)
 
 - Food Vendor Menu
   
