@@ -77,11 +77,11 @@ We are developing a comprehensive web application to streamline the ordering and
 
 - Food Vendor Menu
   
-  ![image](https://github.com/user-attachments/assets/509bda76-4fef-4edd-873d-bc877b03a683)
+![image](https://github.com/user-attachments/assets/509bda76-4fef-4edd-873d-bc877b03a683)
 
 - Drink Vendor Menu
 
-  ![image](https://github.com/user-attachments/assets/e05df821-6070-47fa-94e0-4beb5487e9a1)
+![image](https://github.com/user-attachments/assets/e05df821-6070-47fa-94e0-4beb5487e9a1)
 
 - Cart
   
@@ -97,7 +97,7 @@ We are developing a comprehensive web application to streamline the ordering and
 
 - Feedback
   
-  ![image](https://github.com/user-attachments/assets/859fde29-a95e-46cf-82c7-7a566237dd3b)
+![image](https://github.com/user-attachments/assets/859fde29-a95e-46cf-82c7-7a566237dd3b)
 
 
 ## Changelog
