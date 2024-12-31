@@ -58,7 +58,7 @@ We are developing a comprehensive web application to streamline the ordering and
 3. Place order
    - add order to cart
 4. Payment
-   - QR pay provided by sellers, e-wallet, cash
+   - selection for cash, card or online banking
 5. Order tracking
    - order submitted, order preparing and order prepared or pickup
 6. Create Feedback
