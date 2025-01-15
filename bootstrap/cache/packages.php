@@ -41,15 +41,22 @@
       0 => 'Laravel\\Tinker\\TinkerServiceProvider',
     ),
   ),
-  'livewire/livewire' => 
+  'laravel/ui' => 
   array (
     'providers' => 
     array (
-      0 => 'Livewire\\LivewireServiceProvider',
+      0 => 'Laravel\\Ui\\UiServiceProvider',
     ),
+  ),
+  'livewire/livewire' => 
+  array (
     'aliases' => 
     array (
       'Livewire' => 'Livewire\\Livewire',
+    ),
+    'providers' => 
+    array (
+      0 => 'Livewire\\LivewireServiceProvider',
     ),
   ),
   'nesbot/carbon' => 
