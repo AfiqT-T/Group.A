@@ -158,16 +158,7 @@ This shows that feedback has been sent to database.
 ## Changelog
 
 
-v1.0.0 - 15/12/2024
-- Initial project setup
-- Basic README documentation
 
-v1.1.0 - 22/12/2024
-- Added ERD Diagram
-- Added Sequence Diagram
-
-v1.1.1 - 24/12/2024
-- Added Mockup Design
 
 
 
