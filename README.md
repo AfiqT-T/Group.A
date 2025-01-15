@@ -1,4 +1,4 @@
-![Screenshot 2025-01-15 224126](https://github.com/user-attachments/assets/4e98ff84-7db5-44e3-b62c-b18c84ac6181)# INFO 3305 Section 02 WEB APPLICATION DEVELOPMENT
+# INFO 3305 Section 02 WEB APPLICATION DEVELOPMENT
 # Group A
 # Ali Arabesque
 <!-- You can use comments to add notes 
@@ -142,7 +142,7 @@ Users can view their cart before payment.
 7. Payment
 ![Screenshot 2025-01-15 223507](https://github.com/user-attachments/assets/5b96ddee-2d89-4e3f-935e-66e5d11fc96f)
 Users can choose any payment method to proceed with the order. However, only one payment transaction could happen at one time. 
-![Uploading Screenshot 2025-01-15 224126.png…]()
+![Screenshot 2025-01-15 224126](https://github.com/user-attachments/assets/4e98ff84-7db5-44e3-b62c-b18c84ac6181)
 Users can continue to check their order status or return to mainpage.
 
 9. Delivery
