@@ -103,6 +103,7 @@ We are developing a comprehensive web application to streamline the ordering and
 1. Connecting, seeding and migrating database.
 2. Figure out route that should be taken by a certain pages.
 3. Authentication. To change the route with the middleware auth sanctum.
+4. Creating fake data using factories are  confusing as each model, controller, migration file and view files must be sync perfectly
 
 ## Changelog
 
