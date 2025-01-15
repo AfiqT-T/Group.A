@@ -99,6 +99,10 @@ We are developing a comprehensive web application to streamline the ordering and
   
 ![image](https://github.com/user-attachments/assets/859fde29-a95e-46cf-82c7-7a566237dd3b)
 
+## Challenges 
+1. Connecting, seeding and migrating database.
+2. Figure out route that should be taken by a certain pages.
+3. Authentication. To change the route with the middleware auth sanctum.
 
 ## Changelog
 
